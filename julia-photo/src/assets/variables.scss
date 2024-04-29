@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+$color: black;
+$font-family-default: "Merriweather";
+$font-weight-lighter: 100;
+$font-weight-light: 300;
+$font-weight-default: 400;
+$font-size-small: 16px;
+$font-size-default: 20px;
+$font-size-large: 40px;
+$font-size-larger: 70px;
+
+
+$bgc-main: #fcfaf1;
+$bgc-window: #f6f3e3;
+$bgc-shadow: #bfa37d;
+
+$transition-fast: 0.07s;
+$transition-default: 0.2s;
+$transition-slow: 0.5s;
+
+
+$border-radius-default: 3px;
+$border-width-default: 3px;
+$border-default: solid $border-width-default $bgc-shadow;
